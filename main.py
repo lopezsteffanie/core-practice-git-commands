@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    print("Hi Stevie!")
     return False
 
 
